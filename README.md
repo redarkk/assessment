@@ -13,7 +13,7 @@
 Every time theere is a commit the pipeline will build an image with latest tags
 
 
-### To deploy the application to ECS below are the steps that are important 
+## To deploy the application to ECS below are the steps that are important 
 1) provision ECS cluster and attatch neccessary roles, permission , VPC subnets , security gropups 
 
 2) Create a ECR registry to push the laatest images 
